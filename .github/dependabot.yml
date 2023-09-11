@@ -1,0 +1,15 @@
+version: 2
+
+updates:
+  - package-ecosystem: gradle
+    directory: project-a
+    schedule:
+      interval: monthly
+  - package-ecosystem: gradle
+    directory: project-b
+    schedule:
+      interval: monthly
+  - package-ecosystem: gradle
+    directory: convention-plugin
+    schedule:
+      interval: monthly
