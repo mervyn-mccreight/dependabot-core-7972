@@ -7,5 +7,5 @@ repositories {
 }
 
 dependencies {
-    implementation("com.adarshr:gradle-test-logger-plugin:3.1.0")
+    implementation("com.adarshr:gradle-test-logger-plugin:3.2.0")
 }
